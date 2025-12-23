@@ -7,8 +7,7 @@ The application is designed to simulate a real-world ML system, providing not ju
 🚀 Live Demo
 
 
-https://your-app-name.streamlit.app
-
+https://house-rent--predictor.streamlit.app/
 📌 Key Features
 
 🔢 Predicts monthly house rent based on property details
